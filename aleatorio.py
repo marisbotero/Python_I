@@ -19,9 +19,5 @@ def run():
         	print ('El número es más grande')
 
 
-
-
-
-
 if __name__ == '__main__': 
 	run()
