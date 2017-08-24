@@ -14,7 +14,7 @@ def make_square(dave):
 
 
 	for i in range(4):
-					make_line_and_turn(dave, length)
+	make_line_and_turn(dave, length)
 
 
 def  make_line_and_turn(dave, length):
