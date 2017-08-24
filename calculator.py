@@ -5,10 +5,6 @@ def foreign_exchange_calculator(ammount):
 
 	return mex_to_col_rate * ammount
 
-
-
-
-
 def run():
 	print('C A L C U L A D O R A  D E  D I V I S A S')
 	print('Convierte pesos mexicanos a pesos Colombianos')
