@@ -6,8 +6,6 @@ def factorial(number):
 
     return number *factorial(number - 1)
 
-
-
 if __name__ == '__main__':
 	number = int (input('Ingresa el numero'))
 
