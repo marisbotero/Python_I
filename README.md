@@ -1,2 +1,9 @@
-# Python_I
- Practical exercises for learning python
+Python
+============
+
+
+
+  * Python is easy to use
+  * powerful
+  * versatile
+
