@@ -4,12 +4,12 @@ import random
 import re
 import sys
 
+def population_density(population, land_area):
+    return  population/land_area
 
-def loop(n):
-     for i in range(1, 11):
-         print(str(n + " x " + str(i) + " = " + str(n* i))
 
 
 if __name__ == '__main__':
-    n = int(input())
-    loop(n)
+    population = 399
+    land_area = 30283
+    population_density(population, land_area)
