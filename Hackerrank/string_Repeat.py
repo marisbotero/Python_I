@@ -5,13 +5,9 @@
 
 def reapetedstring(s,n):
     len_str = len(s)
-
     num_strs = n//len_str
-
     remainder = n %len_str
-
     count1 = 0
-
     count2 = 0
 
     for i in range(len_str):
